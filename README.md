@@ -7,5 +7,4 @@ I'm Marc Sanchis, 📡 Telecommunications student at the Universitat Politècnic
 - ✈️ Building an airline simulator game in Rust ⚙️
 
 ## A quote that inspires me
-> 'Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.'
-> - Richard Feynman
+> 'Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.' - Richard Feynman
