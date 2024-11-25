@@ -3,6 +3,7 @@ I'm Marc Sanchis, 📡 Telecommunications student at the Universitat Politècnic
 
 ## My projects
 - 🚄 Software PM at Hyperloop UPV
+- ⚛️ Learning ROOT and GEANT4
 - 📡 Antenna design
 - 📓 Taking notes in class with LaTeX
 
