@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/msanlli/msanlli/ferris-bg.png">
+    <img width="100%" src="ferris-bg.png">
 </p>
 
 I'm Marc Sanchis, 📡 Telecommunications student at the Universitat Politècnica de València and Software PM at Hyperloop UPV.
